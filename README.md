@@ -1,6 +1,6 @@
 # Serial Port Monitor
 
-**![Serial Port Monitor or AutoScan](https://github.com/bizkiwi/serial-port-monitor/serial-port-monitor-assembled-device.jpg)**
+**![Serial Port Monitor or AutoScan](https://github.com/bizkiwi/serial-port-monitor/blob/main/docs/serial-port-monitor-assembled-device.jpg)**
 
 Development of a Serial Port Monitor device capable of monitoring and non-invasively intercepting data sent between a PC and a thermal printer connected via RS-232 serial cable. 
 The device firmware parses intercepted text data for preset keywords to locate positioning of text characters of interest. 
